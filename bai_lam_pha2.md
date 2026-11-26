@@ -3,7 +3,7 @@
 - **Mã đề:** 07
 - **Họ tên:PHẠM XUÂN TRƯỜNG**
 - **Lớp:CNTT3**
-- **Link repository Pha2:**
+- **Link repository Pha2:https://github.com/truongxuan130208-dotcom/hn-k26-promtAL_H02PHA1-CNTT3_PROMTAL_H02PHA2/blob/4c7e5a6f69a1f6eaaa31cb49deec58756d5a30a4/bai_lam_pha2.md**
 - **Công cụ AI đã dùng (ChatGPT/Claude/Gemini):GEMINI**
 
 > Pha 2 (20 phút cuối). Mỗi mục: mở cuộc trò chuyện mới, gửi nguyên văn prompt đã viết trong bai_lam_pha1.md, dán câu trả lời và link chia sẻ vào đây. Xong, kéo thả file này vào repository Pha2.
