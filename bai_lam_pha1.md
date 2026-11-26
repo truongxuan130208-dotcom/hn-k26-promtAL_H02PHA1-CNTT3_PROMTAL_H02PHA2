@@ -3,7 +3,7 @@
 - **Mã đề:** 07
 - **Họ tên:phạm xuân trường**
 - **Lớp:cntt3**
-- **Link repository Pha1:**
+- **Link repository Pha1:https://github.com/truongxuan130208-dotcom/hn-k26-promtAL_H02PHA1-CNTT3_PROMTAL_H02PHA2/blob/8a733670ea8bc8be47e33f67c84e852de55ef05b/bai_lam_pha1.md**
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
