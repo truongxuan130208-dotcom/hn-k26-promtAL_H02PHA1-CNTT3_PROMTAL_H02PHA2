@@ -14,7 +14,7 @@
 **GHI CHU DA AN DANH**
 
 ```text
-Khách hàng [TEN_KHACH_HANG], số điện thoại [SO_DIEN_THOAI_KHACH_HANG], số CCCD [SO_CCCD_KHACH_HANG], email , đặt vé cả ngày (mã VECN) ngày 26/12/2026 cho 2 người lớn và 2 trẻ em. Khách đã chuyển khoản trước 400.000 đồng. Khách yêu cầu thuê 1 tủ đồ lớn.
+Khách hàng [TEN_KHACH_HANG], số điện thoại [SO_DIEN_THOAI_KHACH_HANG], số CCCD [SO_CCCD_KHACH_HANG], email [EMAIL_KHACH_HANG] , đặt vé cả ngày (mã VECN) ngày 26/12/2026 cho 2 người lớn và 2 trẻ em. Khách đã chuyển khoản trước 400.000 đồng. Khách yêu cầu thuê 1 tủ đồ lớn.
 
 ```
 
