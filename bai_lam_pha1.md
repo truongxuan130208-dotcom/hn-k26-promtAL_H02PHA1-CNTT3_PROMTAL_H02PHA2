@@ -154,7 +154,7 @@ CHÍNH SÁCH ĐỀN BÙ CỦA CÔNG VIÊN NƯỚC SÓNG XANH
 
 ### b) Hai điều cần kiểm tra ở JSON đầu ra của Trạm 1
 
-1.Trả về đủ 4 trường theo quy định 
+1.Trả về đủ 4 trường theo quy định { "dong_khu_choi"  "ve_sinh" ,"nhan_vien" "khac"}
 
 2.Trả về có đúng là đối tượng JSON không . 
 
